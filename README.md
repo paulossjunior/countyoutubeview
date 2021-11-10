@@ -1,5 +1,17 @@
 # Contador de View de Canais do Youtube
 
+## Instalação
+```bash
+pip install -r requirements.txt
+```
+## Execução
+Para rodar o script basta executar o comando abaixo
+
+```py
+python new_view.py
+```
+
+
 #Referencia:
 https://www.thepythoncode.com/article/get-youtube-data-python
 
